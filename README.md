@@ -173,7 +173,6 @@ Most assignments will have tests that check your work and provide immediate
 feedback in the terminal; that feedback will help you figure out what you need
 to do to get the tests passing. We'll walk through some examples in upcoming
 lessons.
-
 For each assignment, before you can run the tests, you need to install the
 _dependencies_ the test package requires. To install the dependencies for this
 lab, run the following:
